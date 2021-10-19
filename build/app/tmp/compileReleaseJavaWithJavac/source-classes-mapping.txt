@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/imtixon3/BuildConfig.java
+ com.example.imtixon3.BuildConfig
